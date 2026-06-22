@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🚀 ¡Hola! Soy LORDANTH
 
-<!--
-**LORDANTH/LORDANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Aquí tienes un acceso rápido a mis proyectos principales de desarrollo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Panel de Proyectos
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+| :--- | :--- | :--- | :--- |
+| **Lorem** | Lorem. | NestJS, Next.js, PostgreSQL | [Ver Repositorio](https://github.com/tu-usuario/tu-repo) |
+| **Lorem** | Lorem. | React, Tailwind CSS | [Ver Sitio Vivo](https://github.com/tu-usuario/tu-repo) |
+| **Lorem** | Lorem. | Next.js, Web Audio API | [Ver Proyecto](https://github.com/tu-usuario/tu-repo) |
+
+---
+
+## 🌐 Conéctate conmigo
+* 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/lordanth)
+* 📧 [Correo Electrónico](mailto:Email@dominio.com)
