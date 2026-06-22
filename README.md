@@ -15,5 +15,5 @@ Bienvenido a mi perfil de GitHub. Aquí tienes un acceso rápido a mis proyectos
 ---
 
 ## 🌐 Conéctate conmigo
-* 💼 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/lordanth)
+* 💼 [LinkedIn](www.linkedin.com/in/lordanth)
 * 📧 [Correo Electrónico](mailto:Email@dominio.com)
